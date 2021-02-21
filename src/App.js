@@ -1,9 +1,12 @@
 import React from 'react'
 
+import 'semantic-ui-css/semantic.min.css'
+
+
 const App = () => {
   return (
-    <div>
-      Test
+    <div className ='ui container'>
+     
     </div>
   )
 }
